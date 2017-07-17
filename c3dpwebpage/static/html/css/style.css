@@ -1,0 +1,133 @@
+/*.col-md-9 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-8 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-24 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-3 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-16 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-6 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.row {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-2 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-4 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}
+.col-md-12 {
+	border-right: solid 5px;
+	border-left: solid 5px;
+	border-top: solid 5px;
+	border-bottom: solid 5px;
+}*/
+div {
+  font-family: 'Roboto', sans-serif;
+  font-weight: Bold;
+}
+.dropdown-hover {
+  color: white;
+  font-weight: Bold;
+}
+.dropdown-hover:hover {
+  color: yellow;
+}
+.banner3 {
+  color: white;
+  font-weight: bold;
+}
+.banner3:visited {
+  color: white;
+}
+.banner3:hover {
+  color: white;
+}
+.banner3:focus {
+  color: white;
+}
+.banner {
+  color: white;
+  font-size: 17px;
+}
+.banner:hover {
+  color: yellow 
+}
+.banner:focus {
+  color: white;
+  text-decoration: none;
+}
+.banner2 {
+  color: white;
+  font-weight: normal;
+  font-size: 10px;
+}
+.banner2:hover {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.banner2:visited {
+  color: white;
+}
+.carousel-caption {
+  top: 40px;
+  color: red;
+}
+/*.container-fluid {
+  padding-left: 10 !important;
+  padding-right: 10 !important;
+  margin-left: 10 !important;
+  margin-right: 10 !important;
+}*/
+.img-fluid {
+  width: 100%;
+  height: 100%;
+}
+.dropdown {
+  text-align:center;
+}
+
+/*.dropdown-menu { left:50%; margin-left:-100px;}*/
+/*.col {
+	margin-bottom: -15px;
+}
+.col-3 {
+	margin-bottom: -15px;
+}*/
